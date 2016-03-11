@@ -1,7 +1,7 @@
 name: OPAVEDA
 favicon: null
-layout_spectrum: 0.17204641783609986
-typography_spectrum: 0.026530246483162045
+layout_spectrum: 1
+typography_spectrum: 0.51809
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.1988906713668257
+    - '#000000'
+    - '#d5dee3'
+    - '#a7adad'
+    - '#493802'
+    - '#8c8d87'
+  brandStrength: 0.125
   lightness: 0.8688102518208325
-  saturation: 0.6076204858254641
+  saturation: 0.125
   rhythmicContrast: 0.6319363538641483
 purpose: []
