@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[OPAVEDA]]></title>
         <description><![CDATA[OPAVEDA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/opaveda/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 03:38:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 02:37:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/opaveda/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e5addc5-2164-45fb-934e-6dcc20c38518.png">]]></description>
-            <link>undefined202d1f96-e44d-4b53-b8bc-cebf6c8e2886/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8469fd4-cc86-418b-81ef-787f1249e455.png">]]></description>
+            <link>https://thegrid.ai/opaveda/202d1f96-e44d-4b53-b8bc-cebf6c8e2886/index.html</link>
             <guid isPermaLink="false">202d1f96-e44d-4b53-b8bc-cebf6c8e2886</guid>
-            <pubDate>Fri, 11 Mar 2016 03:38:44 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 02:36:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
